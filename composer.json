@@ -1,5 +1,5 @@
 {
-    "name": "azri/symfony-breadcrumb",
+    "name": "onilopic/symfony-breadcrumb",
     "type": "symfony-bundle",
     "description": "Symfony bundle for easy setup of breadcrumbs",
     "license": "MIT",
